@@ -1,4 +1,4 @@
-DESTDIR=/usr/local
+DESTDIR=../usr
 PREFIX=mbedtls_
 PERL ?= perl
 
